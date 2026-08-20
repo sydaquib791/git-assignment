@@ -1,0 +1,4 @@
+# Git ignore rules
+*.log
+.env
+passwords.txt
